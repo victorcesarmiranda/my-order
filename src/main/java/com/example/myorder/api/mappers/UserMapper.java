@@ -3,7 +3,6 @@ package com.example.myorder.api.mappers;
 import com.example.myorder.api.dtos.CreateUserDto;
 import com.example.myorder.api.dtos.UserResponseDto;
 import com.example.myorder.entities.User;
-import org.graalvm.compiler.lir.LIRInstruction;
 import org.modelmapper.ModelMapper;
 
 public class UserMapper {
