@@ -5,7 +5,6 @@ import com.example.myorder.api.dtos.CreateRestaurantDto;
 import com.example.myorder.api.dtos.RestaurantResponseDto;
 import com.example.myorder.services.RestaurantService;
 import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;

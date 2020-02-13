@@ -1,7 +1,5 @@
 package com.example.myorder.api.dtos;
 
-import io.swagger.models.auth.In;
-
 public class RestaurantResponseDto {
 
 
