@@ -21,7 +21,6 @@ public class CreateRestaurantDto {
     public String getName() {
         return name;
     }
-
     public CreateRestaurantDto setName(String name) {
         this.name = name;
         return this;
