@@ -2,7 +2,6 @@ package com.example.myorder.api.controllers;
 
 import com.example.myorder.RestPath;
 import com.example.myorder.api.dtos.CreateUserDto;
-import com.example.myorder.api.dtos.RestaurantResponseDto;
 import com.example.myorder.api.dtos.UserResponseDto;
 import com.example.myorder.services.UserService;
 import io.swagger.annotations.Api;

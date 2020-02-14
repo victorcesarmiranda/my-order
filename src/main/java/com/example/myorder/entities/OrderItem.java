@@ -1,7 +1,5 @@
 package com.example.myorder.entities;
 
-import io.swagger.models.auth.In;
-
 import javax.persistence.*;
 
 @Entity
